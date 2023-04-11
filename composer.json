@@ -1,0 +1,15 @@
+{
+    "name": "jon/composer-test",
+    "autoload": {
+        "psr-4": {
+            "Jon\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jon Oliver",
+            "email": "jon@heysparkbox.com"
+        }
+    ],
+    "require": {}
+}
